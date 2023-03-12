@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+// 꽤 간단하게 규칙 찾아서 해결함 (나중에 블로그 작성하기)
 
 int T, a, b, result;
 
