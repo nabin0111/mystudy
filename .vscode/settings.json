@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "limits": "c",
-        "memory.h": "c"
+        "memory.h": "c",
+        "string.h": "c",
+        "stdio.h": "c"
     }
 }
