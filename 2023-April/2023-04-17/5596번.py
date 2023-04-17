@@ -1,0 +1,5 @@
+S = map(int, input().split())
+T = map(int, input().split())
+S = sum(S)
+T = sum(T)
+print(T) if T > S else print(S)
