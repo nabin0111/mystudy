@@ -1,4 +1,5 @@
 from collections import deque
+
 N, K = map(int, input().split())
 num = deque(list(range(1, N+1)))
 res = []
